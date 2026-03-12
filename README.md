@@ -8,7 +8,7 @@
 | Building | Custom AI-assisted audit tooling |
 
 
-# 🤖 AI Tooling
+#  AI Tooling
 Building a custom Claude Code workflow for smart contract auditing
 
 - Protocol understanding commands
@@ -19,7 +19,7 @@ Building a custom Claude Code workflow for smart contract auditing
 
 
 
-# 📫 Contact
+#  Contact
 | | |
 |---|---|
 | **X** | 0xfl3x |
