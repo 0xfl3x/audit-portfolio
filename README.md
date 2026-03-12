@@ -3,7 +3,7 @@
 
 | | |
 |---|---|
-| Competing on | Sherlock · Cantina · Code4rena · Immunefi |
+| Competing on | Sherlock · Cantina · Code4rena  |
 | Shadow auditing | Protocols outside of contests |
 | Building | Custom AI-assisted audit tooling |
 
