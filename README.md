@@ -27,4 +27,4 @@ Building a custom Claude Code workflow for smart contract auditing
 | **Email** | 0xbyteme32@gmail.com |
 
 
-Open to collaborations and private audit engagements.Share
+Open to collaborations and private audit engagements.
