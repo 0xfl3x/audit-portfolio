@@ -22,9 +22,9 @@ Building a custom Claude Code workflow for smart contract auditing
 #  Contact
 | | |
 |---|---|
-| **X** | 0xfl3x |
-| **Discord** | 0xfl3x |
-| **Email** | 0xbyteme32@gmail.com |
+| **X** | [0xfl3x](https://x.com/0xfl3x) |
+| **Discord** | [0xfl3x](https://discord.com/users/1371383148826595499) |
+| **Email** | [0xbyteme32@gmail.com](mailto:0xbyteme32@gmail.com) |
 
 
 Open to collaborations and private audit engagements.
